@@ -5,7 +5,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I'm Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand.<br>
+I'm Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Thailand. (Main Backend )<br>
 I have practiced and developed my web development skills through self-learning,including using tools like ChatGPT to practice. <br>
 I have an understanding of working with RESTful APIs and Responsive Web Design.
 
